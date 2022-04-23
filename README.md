@@ -20,9 +20,10 @@ Some notes:
 
 | Member/s:        | Worked on:           |
 | ------------- |:-------------:|
-| All (Various Contributions)    | Dataset & Data Visualization |
-| All (Various Contributions)      | Best Random State Script      |
+| All (Various Contributions)*    | Dataset & Data Visualization |
+| All (Various Contributions)*      | Best Random State Script      |
 | Wei Zi | Classification Tree      |
 | Gracie | Random Forest      |
 | Alphonsus | Support Vector Machines      |
 
+* The Dataset, Data Visualization & Best Random State Script was something we worked on together through trying different sources and methods while improving or correcting each others work. The final result you see here is what we agreed upon was the best to use.
