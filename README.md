@@ -28,4 +28,9 @@ Some notes:
 
 Specifically:
   - Dataset:
-    - albus.
+    - Wei Zi: Dataset Collection
+    - Gracie: Dataset Merging
+    - Alphonsus: Dataset Cleaning
+  - Visualization:
+    - Wei Zi: Correlation Heatmap
+    - Gracie:  
