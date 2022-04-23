@@ -1,5 +1,12 @@
 # SC1015_Project_LabGroup_Team01
 
+| Members       |
+| ------------- |
+| Wei Zi      |
+| Alphonsus      |
+| Gracie |
+
+
 ## Problem definition:
 Using the percentage change of variables yesterday & the percentage change of Bitcoin's price today, can we create a model that will use the percentage change of variables today to determine if the percentage change of Bitcoin's price tomorrow will be positive or negative?
 
