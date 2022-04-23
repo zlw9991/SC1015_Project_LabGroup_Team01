@@ -20,8 +20,8 @@ Some notes:
 
 | Member/s:        | Worked on:           |
 | ------------- |:-------------:|
-| All (Through Gradual Contributions)    | Dataset & Data Visualization |
-| All (Through Gradual Contributions)      | Best Random State Script      |
+| All (Various Contributions)    | Dataset & Data Visualization |
+| All (Various Contributions)      | Best Random State Script      |
 | Wei Zi | Classification Tree      |
 | Gracie | Random Forest      |
 | Alphonsus | Support Vector Machines      |
