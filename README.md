@@ -20,17 +20,9 @@ Some notes:
 
 | Member/s:        | Worked on:           |
 | ------------- |:-------------:|
-| All      | Dataset & Data Visualization |
-| Wei Zi      | Best Random State Script      |
-| Gracie + Wei Zi | Classification Tree      |
-| Gracie + Alphonsus | Random Forest      |
+| All (Through Gradual Contributions)    | Dataset & Data Visualization |
+| All (Through Gradual Contributions)      | Best Random State Script      |
+| Wei Zi | Classification Tree      |
+| Gracie | Random Forest      |
 | Alphonsus | Support Vector Machines      |
 
-Specifically:
-  - Dataset:
-    - Wei Zi: Dataset Collection
-    - Gracie: Dataset Merging
-    - Alphonsus: Dataset Cleaning
-  - Visualization:
-    - Wei Zi: Correlation Heatmap
-    - Gracie:  
