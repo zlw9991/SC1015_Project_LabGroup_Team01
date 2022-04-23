@@ -23,7 +23,7 @@ Some notes:
 | All      | Dataset & Data Visualization |
 | Wei Zi      | Best Random State Script      |
 | Gracie + Wei Zi | Classification Tree      |
-| Gracue + Alphonsus | Random Forest      |
+| Gracie + Alphonsus | Random Forest      |
 | Alphonsus | Support Vector Machines      |
 
 Specifically:
