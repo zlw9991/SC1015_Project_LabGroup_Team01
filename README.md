@@ -42,16 +42,27 @@ The source csvs for our dataset cmb1/cmb1e.csv can be found [here](https://githu
 The data visualization jupiter notebook can be found [here](https://github.com/zlw9991/SC1015_Project_LabGroup_Team01/tree/main/1_DataVisualization)
 
 ## Best Random State Script:
-The Best Random State Script jupiter notebook can be found [here](https://github.com/zlw9991/SC1015_Project_LabGroup_Team01/tree/main/3_RandomForest)
+The Best Random State Script jupiter notebook can be found [here](https://github.com/zlw9991/SC1015_Project_LabGroup_Team01/tree/main/2_ClassficationTree_And_BestRandomState)
+
+This script may take quite awhile to run due to searching for the best random state value from 1 to 1 million.
 
 ## Classification Tree:
-The Classification Tree jupiter notebook can be found [here](https://github.com/zlw9991/SC1015_Project_LabGroup_Team01/tree/main/3_RandomForest)
+The Classification Tree jupiter notebook can be found [here](https://github.com/zlw9991/SC1015_Project_LabGroup_Team01/tree/main/2_ClassficationTree_And_BestRandomState)
 
 ## Random Forest:
+The Random Forest jupiter notebook can be found [here](https://github.com/zlw9991/SC1015_Project_LabGroup_Team01/tree/main/3_RandomForest)
+
+This script may take quite awhile due to gridsearch looking for the best depth and n value.
 
 ## Support Vector Machines:
+The Support Vector Machines jupiter notebook can be found [here]
+(https://github.com/zlw9991/SC1015_Project_LabGroup_Team01/tree/main/4_SupportVectorMachines)
 
 ## Conclusions:
+
+- Classification Tree has the best test classification accuracy. 
+- But depending on different requirements, other models may still be used:
+    - Ie: Random Forest has the best FPR.
 
 
 ## Contributions
@@ -67,3 +78,7 @@ The Classification Tree jupiter notebook can be found [here](https://github.com/
 * The Dataset, Data Visualization & Best Random State Script was something we worked on together through trying different sources and methods while improving or correcting each others work. The final result you see here is what we agreed upon was the best to use.
 
 ## References:
+
+For Dataset:
+  - Quandl
+  - Investing.com
