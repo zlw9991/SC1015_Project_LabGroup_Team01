@@ -31,6 +31,7 @@ Some notes:
 - negative change will be represented as 'N', positive or zero change will be represented with 'P'.
 
 ## Files:
+- [This Powerpoint will provide a detailed explaination for our project](#https://github.com/zlw9991/SC1015_Project_LabGroup_Team01/blob/main/LabGroup_Team01.pptx)
 
 ## Dataset:
 
