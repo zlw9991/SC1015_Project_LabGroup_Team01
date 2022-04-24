@@ -55,8 +55,7 @@ The Random Forest jupiter notebook can be found [here](https://github.com/zlw999
 This script may take quite awhile due to gridsearch looking for the best depth and n value.
 
 ## Support Vector Machines:
-The Support Vector Machines jupiter notebook can be found [here]
-(https://github.com/zlw9991/SC1015_Project_LabGroup_Team01/tree/main/4_SupportVectorMachines)
+The Support Vector Machines jupiter notebook can be found [here](https://github.com/zlw9991/SC1015_Project_LabGroup_Team01/tree/main/4_SupportVectorMachines)
 
 ## Conclusions:
 
