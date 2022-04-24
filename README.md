@@ -15,8 +15,9 @@
 6. [Classification Tree](#classification-tree)
 7. [Random Forest](#random-forest)
 8. [Support Vector Machines](#support-vector-machines)
-9. [Contributions](#contributions)
-10. [References](#references)
+9. [Conclusions](#conclusions)
+10. [Contributions](#contributions)
+11. [References](#references)
 
 <a name="headers"/>
 
@@ -43,6 +44,8 @@ Some notes:
 ## Random Forest:
 
 ## Support Vector Machines:
+
+## Conclusions:
 
 
 ## Contributions
