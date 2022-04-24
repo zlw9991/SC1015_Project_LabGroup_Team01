@@ -31,16 +31,21 @@ Some notes:
 - negative change will be represented as 'N', positive or zero change will be represented with 'P'.
 
 ## Files:
-- [This Powerpoint will provide a detailed explaination for our project](#https://github.com/zlw9991/SC1015_Project_LabGroup_Team01/blob/main/LabGroup_Team01.pptx)
+This [Powerpoint](https://github.com/zlw9991/SC1015_Project_LabGroup_Team01/blob/main/LabGroup_Team01.pptx) will provide a detailed explaination for our project.
+
+Each folder can be downloaded seperately: the jupiter notebooks are inside and can be run independently of each other.
 
 ## Dataset:
-
+The source csvs for our dataset cmb1/cmb1e.csv can be found [here](https://github.com/zlw9991/SC1015_Project_LabGroup_Team01/tree/main/1_DataVisualization).
 
 ## Data Visualization:
+The data visualization jupiter notebook can be found [here](https://github.com/zlw9991/SC1015_Project_LabGroup_Team01/tree/main/1_DataVisualization)
 
 ## Best Random State Script:
+The Best Random State Script jupiter notebook can be found [here](https://github.com/zlw9991/SC1015_Project_LabGroup_Team01/tree/main/3_RandomForest)
 
 ## Classification Tree:
+The Classification Tree jupiter notebook can be found [here](https://github.com/zlw9991/SC1015_Project_LabGroup_Team01/tree/main/3_RandomForest)
 
 ## Random Forest:
 
