@@ -35,11 +35,23 @@ This [Powerpoint](https://github.com/zlw9991/SC1015_Project_LabGroup_Team01/blob
 
 Each folder can be downloaded seperately: the jupiter notebooks are inside and can be run independently of each other.
 
+There is a video reading out the presentation, but due to how github does not allow videos larger than 25MB, you will have to request, DM me to see it.
+
 ## Dataset:
 The source csvs for our dataset cmb1/cmb1e.csv can be found [here](https://github.com/zlw9991/SC1015_Project_LabGroup_Team01/tree/main/1_DataVisualization).
 
+The Dataset for the models used is cmb1.csv. cmb1e.csv is used for SVM only.
+
+Datasets are present in each folder.
+
 ## Data Visualization:
 The data visualization jupiter notebook can be found [here](https://github.com/zlw9991/SC1015_Project_LabGroup_Team01/tree/main/1_DataVisualization)
+
+Visualizations used:
+- Correlation Heatmap.
+- Time Series.
+- Linear best fit.
+- Multi Variate Boxplot.
 
 ## Best Random State Script:
 The Best Random State Script jupiter notebook can be found [here](https://github.com/zlw9991/SC1015_Project_LabGroup_Team01/tree/main/2_ClassficationTree_And_BestRandomState)
@@ -49,13 +61,19 @@ This script may take quite awhile to run due to searching for the best random st
 ## Classification Tree:
 The Classification Tree jupiter notebook can be found [here](https://github.com/zlw9991/SC1015_Project_LabGroup_Team01/tree/main/2_ClassficationTree_And_BestRandomState)
 
+Details about accuracy, FPR, FNR, etc can be found in the slides.
+
 ## Random Forest:
 The Random Forest jupiter notebook can be found [here](https://github.com/zlw9991/SC1015_Project_LabGroup_Team01/tree/main/3_RandomForest)
 
 This script may take quite awhile due to gridsearch looking for the best depth and n value.
 
+Details about accuracy, FPR, FNR, etc can be found in the slides.
+
 ## Support Vector Machines:
 The Support Vector Machines jupiter notebook can be found [here](https://github.com/zlw9991/SC1015_Project_LabGroup_Team01/tree/main/4_SupportVectorMachines)
+
+Details about accuracy, FPR, FNR, etc can be found in the slides.
 
 ## Conclusions:
 
@@ -81,3 +99,5 @@ The Support Vector Machines jupiter notebook can be found [here](https://github.
 For Dataset:
   - Quandl
   - Investing.com
+
+
